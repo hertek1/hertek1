@@ -1,4 +1,4 @@
-- Hi, I’m @hertek1, 
+- Hi, I’m Herman Tekyan, 
 - 👀 I’m interested in data science and programming, i´m a math teacher and also have a Sociology dregree in University of Buenos Aires.
 - 🌱 I’m currently learning Python, C++, R at the University of Buenos Aires and Univeristy of San Martin, in Argentina. 
 - 💞️ I’m looking to collaborate on diferent areas related to Data Analysis.
